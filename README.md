@@ -87,10 +87,10 @@ My background covers **microservices architecture in Go**, **enterprise web plat
   <a href="https://github.com/bagushd1">
     <img src="https://img.shields.io/badge/GitHub-bagushd1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/bagushadisusanto">
+  <a href="https://www.linkedin.com/in/bagus-hadi-susanto-66b114220">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:849035bagus.bhs@gmail.com">
+  <a href="mailto:bagushd123@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-0E7490?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
