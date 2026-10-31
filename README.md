@@ -80,6 +80,10 @@ My background covers **microservices architecture in Go**, **enterprise web plat
 
 ---
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bagushd1&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 <p align="center">
   <picture>
